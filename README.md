@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @digital-health-g
+- 👀 I’m interested in digital health and blockchain projects
+- 🌱 I’m currently learning Blockchain project management
+- 📫 How to reach me: gregory.bost@gmail.com
